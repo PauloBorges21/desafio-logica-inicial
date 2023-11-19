@@ -1,0 +1,1 @@
+# desafio-calc-partidas-rankeadas
